@@ -1,6 +1,7 @@
 Xorg  
 ===  
 ## Notes for myself:  
+===
 Log File Information:  
 
 The X.Org log files are in: `/var/log/Xorg.#.log`  
@@ -8,5 +9,5 @@ The X.Org log files are in: `/var/log/Xorg.#.log`
 
 The configuration file starts loading at the line that says `Using config file`
 
-
+===
 Use `$ sudo startx -- :1` to test
