@@ -1,7 +1,6 @@
 Xorg  
 ===  
 ## Notes for me:
-===
 Log File Information:  
 The X.Org log files are in: `/var/log/Xorg.#.log`  
     The # is the server number, usually 0  
