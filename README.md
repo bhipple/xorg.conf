@@ -1,6 +1,6 @@
 Xorg  
 ===  
-## Notes for me:  
+## Notes for me:
 ===
 Log File Information:  
 The X.Org log files are in: `/var/log/Xorg.#.log`  
