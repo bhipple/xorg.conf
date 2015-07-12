@@ -1,11 +1,4 @@
-X*
-xi*
-xs*
-defaul*
-app*
-cur*
-font*
-rgb*
-*.swp
-core*
-xorg.conf.f*
+*
+!.gitignore
+!README.md
+!xorg.conf
